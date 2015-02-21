@@ -15,9 +15,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 * [Forest plots](../../tree/master/forest%20plots) ([source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [Forest plots](../../tree/master/forest%20plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-acute-myocardial-infarction
-
-/master/forest%20plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Cell-therapy-for-acute-myocardial-infarction/master/forest%20plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
