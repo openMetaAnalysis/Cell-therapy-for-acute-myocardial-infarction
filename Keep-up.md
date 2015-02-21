@@ -3,7 +3,7 @@ Keep up with this topic
 
 Receive notifications about possible studies when results posted at [ClinicalTrials.gov](http://clinicaltrials.gov)
 -------------------------
-Search strategy is **Interventional Studies | "heart failure" OR "ventricular dysfunction" | "cell therapy" **:
+Search strategy is **Interventional Studies | "heart failure" OR "ventricular dysfunction" | "cell therapy"**:
 
 * [Search now and test strategy at ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?type=Intr&cond=%22heart+failure%22+OR+%22ventricular+dysfunction%22&intr=%22cell+therapy%22&show_rss=Y&sel_rss=mod14)
 * Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=Clinicaltrialsgov_cell_therapy_and_heart_failure&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/Clinicaltrialsgov_cell_therapy_and_heart_failure)
