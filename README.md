@@ -1,13 +1,13 @@
 # Cell therapy for acute myocardial infarction
-A living systematic review
+A mini living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
 
 [Keep current with this topic](Keep-up.md)
 
-**Methods overview:** This repository is an [open  meta-analysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
-This respository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
+This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
