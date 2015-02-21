@@ -23,7 +23,8 @@ References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
-1. Lipinski MJ, Biondi-Zoccai GG, Abbate A, Khianey R, Sheiban I, Bartunek J, Vanderheyden M, Kim HS, Kang HJ, Strauer BE, Vetrovec GW. Impact of intracoronary cell therapy on left ventricular function in the setting of acute myocardial infarction: a collaborative systematic review and meta-analysis of controlled clinical trials. J Am Coll Cardiol. 2007 Oct 30;50(18):1761-7. Epub 2007 Oct 15. PMID: [17964040](http://pubmed.gov/17964040)
+1. Clifford DM, Fisher SA, Brunskill SJ, Doree C, Mathur A, Watt S, Martin-Rendon E. Stem cell treatment for acute myocardial infarction. Cochrane Database Syst Rev. 2012 Feb 15;2:CD006536. doi: [10.1002/14651858.CD006536.pub3](http://dx.doi.org/10.1002/14651858.CD006536.pub3). PMID: [22336818](http://pubmed.gov/22336818)
+2. Lipinski MJ, Biondi-Zoccai GG, Abbate A, Khianey R, Sheiban I, Bartunek J, Vanderheyden M, Kim HS, Kang HJ, Strauer BE, Vetrovec GW. Impact of intracoronary cell therapy on left ventricular function in the setting of acute myocardial infarction: a collaborative systematic review and meta-analysis of controlled clinical trials. J Am Coll Cardiol. 2007 Oct 30;50(18):1761-7. Epub 2007 Oct 15. PMID: [17964040](http://pubmed.gov/17964040)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
