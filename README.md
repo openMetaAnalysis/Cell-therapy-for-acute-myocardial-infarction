@@ -1,4 +1,4 @@
-# Cell therapy for acue myocardial infarction
+# Cell therapy for acute myocardial infarction
 A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
