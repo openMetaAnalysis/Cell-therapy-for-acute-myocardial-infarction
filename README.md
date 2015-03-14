@@ -1,5 +1,5 @@
 # Cell therapy for acute myocardial infarction (incomplete, under contruction)
-A mini living systematic review
+A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
 
