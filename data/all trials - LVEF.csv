@@ -1,2 +1,4 @@
 Study,Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total, Cofactor,
 REPAIR-AMI, 2014, 24569031, 53.4(10), 96, 49.7(13), 93, '',
+Huang,      2015, 26021558, 7.9(4.9), 27, 3.4(5.7),25, 'Group A',
+
