@@ -31,7 +31,7 @@ Berti S, Navarese EP, Maurer GM. Meta-Analysis of Cell-based CaRdiac stUdiEs (AC
 2. Lipinski MJ, Biondi-Zoccai GG, Abbate A, Khianey R, Sheiban I, Bartunek J, Vanderheyden M, Kim HS, Kang HJ, Strauer BE, Vetrovec GW. Impact of intracoronary cell therapy on left ventricular function in the setting of acute myocardial infarction: a collaborative systematic review and meta-analysis of controlled clinical trials. J Am Coll Cardiol. 2007 Oct 30;50(18):1761-7. Epub 2007 Oct 15. PMID: [17964040](http://pubmed.gov/17964040)
 
 ### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
-Pending
+#### New trial(s) *not* included in the most recent review above 
+1. Huang R, Yao K, Sun A, et al. Timing for intracoronary administration of bone marrow mononuclear cells after acute ST-elevation myocardial infarction: a pilot study. Stem Cell Res Ther. 2015;6(1):112. PMID: [26021558](http://pubmed.gov/26021558)
 
 #### Trials included in the review above
