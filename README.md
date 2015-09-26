@@ -1,7 +1,7 @@
 # Cell therapy for acute myocardial infarction (incomplete, under contruction)
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *__* effective.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -33,6 +33,9 @@ Berti S, Navarese EP, Maurer GM. Meta-Analysis of Cell-based CaRdiac stUdiEs (AC
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above 
+1. Choudry F, Hamshere S, Saunders N, Veerapen J, Bavnbek K, Knight C, et al. A randomized double-blind control study of early intra-coronary autologous bone marrow cell infusion in acute myocardial infarction: the REGENERATE-AMI clinical trial†. Eur Heart J. 2015 Sep 23. pii: ehv493. PMID: [26405233](http://pubmed.gov/26405233)
+2. 2. Gao LR, Chen Y, Zhang NK, Yang XL, Liu HL, Wang ZG, et al. Intracoronary infusion of Wharton's jelly-derived 
+mesenchymal stem cells in acute myocardial infarction: double-blind, randomized controlled trial. BMC Med. 2015 Jul 10;13:162. doi: 10.1186/s12916-015-0399-z. PMID: [26162993](http://pubmed.gov/26162993)
 1. Huang R, Yao K, Sun A, et al. Timing for intracoronary administration of bone marrow mononuclear cells after acute ST-elevation myocardial infarction: a pilot study. Stem Cell Res Ther. 2015;6(1):112. PMID: [26021558](http://pubmed.gov/26021558)
 
 #### Trials included in the review above
